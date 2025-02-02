@@ -11,6 +11,9 @@ This project predicts a speaker's age using acoustic features extracted from aud
 2. **Data Preprocessing** (Handling missing values, normalization)
 3. **Model Training** (Regression models like Linear, Decision Tree)
 4. **Model Evaluation** (MSE, MAE, R² score)
+5. **git clone:** https://github.com/AbdullahButt-00/ML-SpeakerAgePredictor.git
+6. pip install -r requirements.txt
+
 
 ## 📜 Instructions
 - Run `pip install -r requirements.txt` to install dependencies.
